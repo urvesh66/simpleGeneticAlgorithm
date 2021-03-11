@@ -1,0 +1,2 @@
+# simpleGeneticAlgorithm
+learning genetic algorithm
